@@ -44,6 +44,7 @@ The chatbot acts as a **virtual legal assistant**, helping users with:
 Clone the repository:
 
 git clone https://github.com/Deekshagowda25/legal-chatbot.git
+
 cd legal-chatbot
 
 ## Install the dependencies:
