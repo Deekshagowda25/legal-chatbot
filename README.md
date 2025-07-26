@@ -41,24 +41,31 @@ The chatbot acts as a **virtual legal assistant**, helping users with:
 
 ## 🛠️ Installation
 
-Clone the repository:
+# Legal Chatbot
 
+## 📥 Clone the Repository
+```bash
 git clone https://github.com/Deekshagowda25/legal-chatbot.git
-
 cd legal-chatbot
+```
 
-## Install the dependencies:
-
+## 📦 Install the Dependencies
+```bash
 pip install -r requirements.txt
+```
 
-## Set up environment 
-export OPENAI_API_KEY=your_key_here 
+## 🔑 Set Up Environment Variables
+```bash
+export OPENAI_API_KEY=your_key_here
+```
 
 ## ▶️ Usage
-To run the chatbot in terminal:
 
+Run the Chatbot in Terminal
+```bash
 python chatbot.py
-
-## To launch the web interface
-
+```
+## Launch the Web Interface
+```bash
 streamlit run app.py
+```
