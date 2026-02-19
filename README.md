@@ -55,7 +55,7 @@ The architecture of LawGPT includes the following components:
 1. **Clone the Repository**
 
 ```bash
-   git clone https://github.com/Deekshagowda25/legal-chatbot.git
+   git clone https://github.com/yourusername/legal-chatbot.git
    cd legal-chatbot
 ```
 
